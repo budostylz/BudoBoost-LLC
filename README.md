@@ -7,3 +7,7 @@
 1. BudoBoost for Creators - Current
 2. BudoBoost Enterprises - Pending
 3. BudoBoost for Educators - Pending
+
+
+## Investor Site
+[Investor Site](https://chatgpt.com/share/e/694e7a52-1668-8009-a637-f1f582b48b6b)

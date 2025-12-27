@@ -36,3 +36,6 @@ Public Review
 ## Integration and Authentication Pricing Tiers
 [Integration and Authentication Pricing Tiers](https://chatgpt.com/share/e/69502613-c858-8009-a806-b0d7404bad99)
 
+1. Flow Revision Charge - 25 Credits
+2. Flow New Site Charge - 100 credits
+

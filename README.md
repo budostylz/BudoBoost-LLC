@@ -33,6 +33,6 @@ Influencer
 
 Public Review
 
-## Integration Pricing Tiers
-[Integration Pricing Tiers](https://chatgpt.com/share/e/69502613-c858-8009-a806-b0d7404bad99)
+## Integration and Authentication Pricing Tiers
+[Integration and Authentication Pricing Tiers](https://chatgpt.com/share/e/69502613-c858-8009-a806-b0d7404bad99)
 

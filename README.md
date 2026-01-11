@@ -39,3 +39,6 @@ Public Review
 1. Flow Revision Charge - 25 Credits
 2. Flow New Site Charge - 100 credits
 
+## NameCheap Affiliate Program
+[NameCheap Affiliate Program](https://www.namecheap.com/affiliates/)
+
